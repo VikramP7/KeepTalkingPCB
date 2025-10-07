@@ -1,4 +1,4 @@
-*<div align="right"> Vikram Procter | June 29, 2025 </div>*
+*<div align="right"> Vikram Procter | June 29 to July 30, 2025 </div>*
 
 # Keep Talking and No One Explodes - Inspired Fake Bomb PCB Design
 
