@@ -1,0 +1,184 @@
+Removed Pin From Net: NetName=GND Pin=J4-2
+Removed Pin From Net: NetName=GND Pin=J4-3
+Removed Pin From Net: NetName=NetD6_1 Pin=J6-3
+Removed Pin From Net: NetName=GND Pin=J7-1
+Removed Pin From Net: NetName=MCU_Expan Pin=J7-2
+Removed Pin From Net: NetName=+3V3 Pin=J7-3
+Removed Pin From Net: NetName=GND Pin=J8-1
+Removed Pin From Net: NetName=Vin Pin=J8-3
+Removed Member From Class: ClassName=TopLevel Member=J9
+Removed Member From Class: ClassName=TopLevel Member=J10
+Change Component Footprint: Designator=J4 Old Footprint=SCREWTERMINAL5MM 3POS New Footprint=Con 2Pos Screw 5.00mm
+Change Component Footprint: Designator=J6 Old Footprint=SCREWTERMINAL5MM 3POS New Footprint=Con 2Pos Screw 5.00mm
+Change Component Footprint: Designator=J1 Old Footprint=SCREWTERMINAL5MM 3POS New Footprint=CON 6pos Screw 5.00mm
+Change Component Footprint: Designator=J2 Old Footprint=SCREWTERMINAL5MM 3POS New Footprint=CON 6pos Screw 5.00mm
+Change Component Comment : Designator=J1 Old Comment=Screw New Comment=5mm
+Change Component Comment : Designator=J2 Old Comment=Screw New Comment=5mm
+Change Component Comment : Designator=J4 Old Comment=Screw New Comment=5mm
+Change Component Comment : Designator=J6 Old Comment=Screw New Comment=5mm
+Change Component Designator: OldDesignator=J5 NewDesignator=J3
+Change Component Designator: OldDesignator=J9 NewDesignator=J7
+Change Component Designator: OldDesignator=J10 NewDesignator=J8
+Change component parameters: Designator = "J1" ("J1"); Footprint = "SCREWTERMINAL5MM 3POS"; UniqueID = "\CLVQZMCP" ("\CLVQZMCP")
+Change component parameters (AddParameter): Name = "Category"; Value = "Terminal Blocks"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.ciiva.com:443/pdfs/VipMasterIC/IC/PCON/PCONS10841/PCONS10841-1.pdf?src-supplier=IHS+Markit"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.ciiva.com:443/pdfs/VipMasterIC/IC/PCON/PCONS10841/PCONS10841-1.pdf?src-supplier=IHS+Markit"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "https://datasheet.ciiva.com/16051/1988846-16051352.pdf?src-supplier=Onlinecomponents.com"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://datasheet.ciiva.com/16051/1988846-16051352.pdf?src-supplier=Onlinecomponents.com"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3Description"; Value = "https://datasheet.ciiva.com/14820/1988846-14820464.pdf?src-supplier=Arrow+Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3URL"; Value = "https://datasheet.ciiva.com/14820/1988846-14820464.pdf?src-supplier=Arrow+Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink4Description"; Value = "https://datasheet.ciiva.com/26340/567909-da-01-nl-printklem-1988846-100-st-26340596.pdf?src-supplier=Conrad"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink4URL"; Value = "https://datasheet.ciiva.com/26340/567909-da-01-nl-printklem-1988846-100-st-26340596.pdf?src-supplier=Conrad"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink5Description"; Value = "https://datasheet.ciiva.com/14610/70055186-14610565.pdf?src-supplier=Allied+Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink5URL"; Value = "https://datasheet.ciiva.com/14610/70055186-14610565.pdf?src-supplier=Allied+Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink6Description"; Value = "https://datasheet.ciiva.com/823/combiconcompact5-0mmseries-823782.pdf?src-supplier=Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink6URL"; Value = "https://datasheet.ciiva.com/823/combiconcompact5-0mmseries-823782.pdf?src-supplier=Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current Rating"; Value = "17.5A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Fastening Method"; Value = "SCREW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Phoenix Contact"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "1988846"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Series"; Value = "1988846"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "Board"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Decks"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Ways"; Value = "6"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pricing"; Value = "1=1.88, 10=1.345, 25=1.246, 50=1.2338 (USD)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reach SVHC Compliant"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Safety Approval"; Value = "UL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Stock"; Value = "343"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "277-1768-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Terminal and Terminal Block Type"; Value = "BARRIER STRIP TERMINAL BLOCK"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "250V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Wire Cross Section"; Value = "2.5mm2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Wire/Cable Gauge"; Value = "14AWG"; VariantName = "[No Variations]"
+Change component parameters: Designator = "J2" ("J2"); Footprint = "SCREWTERMINAL5MM 3POS"; UniqueID = "\WGUJAPSA" ("\WGUJAPSA")
+Change component parameters (AddParameter): Name = "Category"; Value = "Terminal Blocks"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.ciiva.com:443/pdfs/VipMasterIC/IC/PCON/PCONS10841/PCONS10841-1.pdf?src-supplier=IHS+Markit"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.ciiva.com:443/pdfs/VipMasterIC/IC/PCON/PCONS10841/PCONS10841-1.pdf?src-supplier=IHS+Markit"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "https://datasheet.ciiva.com/16051/1988846-16051352.pdf?src-supplier=Onlinecomponents.com"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://datasheet.ciiva.com/16051/1988846-16051352.pdf?src-supplier=Onlinecomponents.com"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3Description"; Value = "https://datasheet.ciiva.com/14820/1988846-14820464.pdf?src-supplier=Arrow+Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3URL"; Value = "https://datasheet.ciiva.com/14820/1988846-14820464.pdf?src-supplier=Arrow+Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink4Description"; Value = "https://datasheet.ciiva.com/26340/567909-da-01-nl-printklem-1988846-100-st-26340596.pdf?src-supplier=Conrad"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink4URL"; Value = "https://datasheet.ciiva.com/26340/567909-da-01-nl-printklem-1988846-100-st-26340596.pdf?src-supplier=Conrad"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink5Description"; Value = "https://datasheet.ciiva.com/14610/70055186-14610565.pdf?src-supplier=Allied+Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink5URL"; Value = "https://datasheet.ciiva.com/14610/70055186-14610565.pdf?src-supplier=Allied+Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink6Description"; Value = "https://datasheet.ciiva.com/823/combiconcompact5-0mmseries-823782.pdf?src-supplier=Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink6URL"; Value = "https://datasheet.ciiva.com/823/combiconcompact5-0mmseries-823782.pdf?src-supplier=Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current Rating"; Value = "17.5A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Fastening Method"; Value = "SCREW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Phoenix Contact"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "1988846"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Series"; Value = "1988846"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "Board"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Decks"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Ways"; Value = "6"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pricing"; Value = "1=1.88, 10=1.345, 25=1.246, 50=1.2338 (USD)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reach SVHC Compliant"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Safety Approval"; Value = "UL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Stock"; Value = "343"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "277-1768-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Terminal and Terminal Block Type"; Value = "BARRIER STRIP TERMINAL BLOCK"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "250V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Wire Cross Section"; Value = "2.5mm2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Wire/Cable Gauge"; Value = "14AWG"; VariantName = "[No Variations]"
+Change component parameters: Designator = "J4" ("J4"); Footprint = "SCREWTERMINAL5MM 3POS"; UniqueID = "\VOJWAZCC" ("\VOJWAZCC")
+Change component parameters (AddParameter): Name = "Category"; Value = "Terminal Blocks"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.ciiva.com:443/pdfs/VipMasterIC/IC/MIDC/MIDC-S-A0005074262/MIDC-S-A0004711666-1.pdf?src-supplier=IHS+Markit"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.ciiva.com:443/pdfs/VipMasterIC/IC/MIDC/MIDC-S-A0005074262/MIDC-S-A0004711666-1.pdf?src-supplier=IHS+Markit"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "https://katalog.we-online.de/em/datasheet/691137710002.pdf?src-supplier=Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://katalog.we-online.de/em/datasheet/691137710002.pdf?src-supplier=Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Wurth Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "691137710002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pricing"; Value = "1=0.36, 10=0.327, 50=0.288, 100=0.2583, 500=0.2493 (USD)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Stock"; Value = "25735"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "732-10955-ND"; VariantName = "[No Variations]"
+Change component parameters: Designator = "J6" ("J6"); Footprint = "SCREWTERMINAL5MM 3POS"; UniqueID = "\PSJKLILO" ("\PSJKLILO")
+Change component parameters (AddParameter): Name = "Category"; Value = "Terminal Blocks"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.ciiva.com:443/pdfs/VipMasterIC/IC/MIDC/MIDC-S-A0005074262/MIDC-S-A0004711666-1.pdf?src-supplier=IHS+Markit"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.ciiva.com:443/pdfs/VipMasterIC/IC/MIDC/MIDC-S-A0005074262/MIDC-S-A0004711666-1.pdf?src-supplier=IHS+Markit"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "https://katalog.we-online.de/em/datasheet/691137710002.pdf?src-supplier=Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://katalog.we-online.de/em/datasheet/691137710002.pdf?src-supplier=Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Wurth Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "691137710002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pricing"; Value = "1=0.36, 10=0.327, 50=0.288, 100=0.2583, 500=0.2493 (USD)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Stock"; Value = "25735"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "732-10955-ND"; VariantName = "[No Variations]"
+Added Component: Designator=J5(CONN 3pos 5.00mm)
+Add component (AddParameter): Name = "Category"; Value = "Terminal Blocks"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.ciiva.com:443/pdfs/VipMasterIC/IC/PCON/PCON-S-A0007661889/PCON-S-A0008047997-1.pdf?src-supplier=IHS+Markit"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.ciiva.com:443/pdfs/VipMasterIC/IC/PCON/PCON-S-A0007661889/PCON-S-A0008047997-1.pdf?src-supplier=IHS+Markit"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "https://datasheet.ciiva.com/16047/1935174-16047249.pdf?src-supplier=Onlinecomponents.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://datasheet.ciiva.com/16047/1935174-16047249.pdf?src-supplier=Onlinecomponents.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "https://datasheet.ciiva.com/15169/getdatasheetpartid-212213-15169949.pdf?src-supplier=Verical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://datasheet.ciiva.com/15169/getdatasheetpartid-212213-15169949.pdf?src-supplier=Verical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "https://datasheet.ciiva.com/823/combiconcompact5-0mmseries-823761.pdf?src-supplier=Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "https://datasheet.ciiva.com/823/combiconcompact5-0mmseries-823761.pdf?src-supplier=Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5Description"; Value = "https://datasheet.ciiva.com/29218/744167-da-01-en-printklemme-pt-1-5-3-5-0-h-29218252.pdf?src-supplier=Conrad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5URL"; Value = "https://datasheet.ciiva.com/29218/744167-da-01-en-printklemme-pt-1-5-3-5-0-h-29218252.pdf?src-supplier=Conrad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "17.5A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Fastening Method"; Value = "SCREW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Phoenix Contact"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "1935174"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Series"; Value = "1935174"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Board"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Decks"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Ways"; Value = "3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing"; Value = "1=1.04, 10=0.748, 25=0.6516, 50=0.5892, 100=0.5688 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reach SVHC Compliant"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Safety Approval"; Value = "UL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock"; Value = "18353"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "277-1578-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Terminal and Terminal Block Type"; Value = "BARRIER STRIP TERMINAL BLOCK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "250V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Wire Cross Section"; Value = "1.5mm2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Wire/Cable Gauge"; Value = "14AWG"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin D7-A
+Add Pin To Net: Unknown Pin: Pin D7-C
+Add Pin To Net: Unknown Pin: Pin D8-A
+Add Pin To Net: Unknown Pin: Pin D8-C
+Add Pin To Net: Unknown Pin: Pin D9-A
+Add Pin To Net: Unknown Pin: Pin D9-C
+Add Pin To Net: Unknown Pin: Pin D10-A
+Add Pin To Net: Unknown Pin: Pin D10-C
+Add Pin To Net: Unknown Pin: Pin D11-A
+Add Pin To Net: Unknown Pin: Pin D11-C
+Add Pin To Net: Unknown Pin: Pin D12-A
+Add Pin To Net: Unknown Pin: Pin D12-C
+Added Pin To Net: NetName=GND Pin=J2-4
+Added Pin To Net: NetName=GND Pin=J2-5
+Added Pin To Net: NetName=GND Pin=J2-6
+Added Pin To Net: NetName=NetD6_1 Pin=J4-2
+Added Pin To Net: NetName=GND Pin=J5-1
+Added Pin To Net: NetName=MCU_Expan Pin=J5-2
+Added Pin To Net: NetName=+3V3 Pin=J5-3
+Added Pin To Net: NetName=Vin Pin=J6-2
+Added Pin To Net: NetName=NetJ1_4 Pin=J1-4
+Added Pin To Net: NetName=NetJ1_4 Pin=R3-1
+Added Pin To Net: NetName=NetJ1_4 Pin=U2-12
+Added Net: Name=NetJ1_4
+Added Pin To Net: NetName=NetJ1_5 Pin=J1-5
+Added Pin To Net: NetName=NetJ1_5 Pin=R2-1
+Added Pin To Net: NetName=NetJ1_5 Pin=U2-1
+Added Net: Name=NetJ1_5
+Added Pin To Net: NetName=NetJ1_6 Pin=J1-6
+Added Pin To Net: NetName=NetJ1_6 Pin=R1-1
+Added Pin To Net: NetName=NetJ1_6 Pin=U2-5
+Added Net: Name=NetJ1_6

@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=Matrix_LED_G Pin=U8-10
+Removed Pin From Net: NetName=Matrix_LED_R Pin=U8-11
+Added Pin To Net: NetName=Matrix_LED_R Pin=U8-10
+Added Pin To Net: NetName=Matrix_LED_G Pin=U8-11

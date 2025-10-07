@@ -1,0 +1,52 @@
+Added Component: Designator=U6(28-SSOP LED Matrix Driver)
+Add component (AddParameter): Name = "Category"; Value = "Integrated Circuits (ICs)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Interface IC Type"; Value = "LED DISPLAY DRIVER"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "ISSI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "IS31FL3731-SALS2-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing"; Value = "1=2.67, 10=1.682, 25=1.4248, 100=1.1332, 250=0.99012, 500=0.90206, 1000=0.82831 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reach SVHC Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock"; Value = "791"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "2521-IS31FL3731-SALS2-TRCT-ND"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin D7-A
+Add Pin To Net: Unknown Pin: Pin D7-C
+Add Pin To Net: Unknown Pin: Pin D8-A
+Add Pin To Net: Unknown Pin: Pin D8-C
+Add Pin To Net: Unknown Pin: Pin D9-A
+Add Pin To Net: Unknown Pin: Pin D9-C
+Add Pin To Net: Unknown Pin: Pin D10-A
+Add Pin To Net: Unknown Pin: Pin D10-C
+Add Pin To Net: Unknown Pin: Pin D11-A
+Add Pin To Net: Unknown Pin: Pin D11-C
+Add Pin To Net: Unknown Pin: Pin D12-A
+Add Pin To Net: Unknown Pin: Pin D12-C
+Added Pin To Net: NetName=NetDS2_9 Pin=U6-1
+Added Pin To Net: NetName=+3V3 Pin=U6-2
+Added Pin To Net: NetName=MatrixDrvr_SDB Pin=U6-3
+Added Pin To Net: NetName=MatrixDrvr_INTB Pin=U6-4
+Added Pin To Net: NetName=GND Pin=U6-5
+Added Pin To Net: NetName=NetR23_2 Pin=U6-6
+Added Pin To Net: NetName=NetDS2_18 Pin=U6-7
+Added Pin To Net: NetName=NetDS2_19 Pin=U6-8
+Added Pin To Net: NetName=NetDS2_20 Pin=U6-9
+Added Pin To Net: NetName=NetDS2_21 Pin=U6-10
+Added Pin To Net: NetName=NetDS2_22 Pin=U6-11
+Added Pin To Net: NetName=NetDS2_23 Pin=U6-12
+Added Pin To Net: NetName=NetDS2_24 Pin=U6-13
+Added Pin To Net: NetName=NetDS2_25 Pin=U6-14
+Added Pin To Net: NetName=NetDS2_26 Pin=U6-15
+Added Pin To Net: NetName=NetC6_1 Pin=U6-16
+Added Pin To Net: NetName=GND Pin=U6-18
+Added Pin To Net: NetName=MatrixDrvr_I2C1_SDA Pin=U6-19
+Added Pin To Net: NetName=MatrixDrvr_I2C1_SCL Pin=U6-20
+Added Pin To Net: NetName=NetDS2_1 Pin=U6-21
+Added Pin To Net: NetName=NetDS2_2 Pin=U6-22
+Added Pin To Net: NetName=NetDS2_3 Pin=U6-23
+Added Pin To Net: NetName=NetDS2_4 Pin=U6-24
+Added Pin To Net: NetName=NetDS2_5 Pin=U6-25
+Added Pin To Net: NetName=NetDS2_6 Pin=U6-26
+Added Pin To Net: NetName=NetDS2_7 Pin=U6-27
+Added Pin To Net: NetName=NetDS2_8 Pin=U6-28
+Added Member To Class: ClassName=TopLevel Member=Component U6 IS31FL3731-SALS2-TR

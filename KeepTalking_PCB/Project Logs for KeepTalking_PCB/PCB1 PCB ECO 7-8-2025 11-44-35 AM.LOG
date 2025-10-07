@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=Wires_LED_R Pin=U8-12
+Removed Pin From Net: NetName=Wires_LED_B Pin=U8-14
+Added Pin To Net: NetName=Wires_LED_B Pin=U8-12
+Added Pin To Net: NetName=Wires_LED_R Pin=U8-14

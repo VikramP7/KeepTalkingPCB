@@ -1,0 +1,32 @@
+Added Component: Designator=DS2(LED Matrix 9x16 Charlie)
+Add Pin To Net: Unknown Pin: Pin D7-A
+Add Pin To Net: Unknown Pin: Pin D7-C
+Add Pin To Net: Unknown Pin: Pin D8-A
+Add Pin To Net: Unknown Pin: Pin D8-C
+Add Pin To Net: Unknown Pin: Pin D9-A
+Add Pin To Net: Unknown Pin: Pin D9-C
+Add Pin To Net: Unknown Pin: Pin D10-A
+Add Pin To Net: Unknown Pin: Pin D10-C
+Add Pin To Net: Unknown Pin: Pin D11-A
+Add Pin To Net: Unknown Pin: Pin D11-C
+Add Pin To Net: Unknown Pin: Pin D12-A
+Add Pin To Net: Unknown Pin: Pin D12-C
+Added Pin To Net: NetName=NetDS2_1 Pin=DS2-1
+Added Pin To Net: NetName=NetDS2_2 Pin=DS2-2
+Added Pin To Net: NetName=NetDS2_3 Pin=DS2-3
+Added Pin To Net: NetName=NetDS2_4 Pin=DS2-4
+Added Pin To Net: NetName=NetDS2_5 Pin=DS2-5
+Added Pin To Net: NetName=NetDS2_6 Pin=DS2-6
+Added Pin To Net: NetName=NetDS2_7 Pin=DS2-7
+Added Pin To Net: NetName=NetDS2_8 Pin=DS2-8
+Added Pin To Net: NetName=NetDS2_9 Pin=DS2-9
+Added Pin To Net: NetName=NetDS2_18 Pin=DS2-18
+Added Pin To Net: NetName=NetDS2_19 Pin=DS2-19
+Added Pin To Net: NetName=NetDS2_20 Pin=DS2-20
+Added Pin To Net: NetName=NetDS2_21 Pin=DS2-21
+Added Pin To Net: NetName=NetDS2_22 Pin=DS2-22
+Added Pin To Net: NetName=NetDS2_23 Pin=DS2-23
+Added Pin To Net: NetName=NetDS2_24 Pin=DS2-24
+Added Pin To Net: NetName=NetDS2_25 Pin=DS2-25
+Added Pin To Net: NetName=NetDS2_26 Pin=DS2-26
+Added Member To Class: ClassName=TopLevel Member=Component DS2 LED Matrix

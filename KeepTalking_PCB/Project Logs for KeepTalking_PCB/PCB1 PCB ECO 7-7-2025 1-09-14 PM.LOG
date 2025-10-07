@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=WiresButts_Mux8A Pin=U1-11
+Removed Pin From Net: NetName=WiresButts_Mux8C Pin=U1-13
+Added Pin To Net: NetName=WiresButts_Mux8C Pin=U1-11
+Added Pin To Net: NetName=WiresButts_Mux8A Pin=U1-13
+Added Member To Class: ClassName=TopLevel Member=Component U1 STM32L412CBT6

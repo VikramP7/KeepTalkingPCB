@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=WiresButts_Mux2A Pin=U1-15
+Removed Pin From Net: NetName=WiresButts_Probe2 Pin=U1-16
+Added Pin To Net: NetName=WiresButts_Probe2 Pin=U1-15
+Added Pin To Net: NetName=WiresButts_Mux2A Pin=U1-16

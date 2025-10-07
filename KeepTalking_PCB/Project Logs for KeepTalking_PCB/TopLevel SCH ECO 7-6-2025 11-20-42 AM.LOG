@@ -1,0 +1,5 @@
+Remove Pin=D7-C From Net=Dramatic_LED2
+Remove Pin=D8-C From Net=Dramatic_LED1
+Remove Pin=D9-C From Net=Strikes_LED1
+Remove Pin=D11-C From Net=Strikes_LED2
+Remove Pin=D12-C From Net=Strikes_LED3

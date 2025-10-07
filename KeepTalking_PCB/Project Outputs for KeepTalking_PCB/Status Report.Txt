@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [KeepTalking_PCB.PrjPcb]
+   Generated File[PCB1_wGraphics-RoundHoles.TXT]
+   Generated File[PCB1_wGraphics-SlotHoles.TXT]
+   Generated File[PCB1_wGraphics.LDP]
+   Generated File[PCB1_wGraphics.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 3:44:56 PM On 8/3/2025

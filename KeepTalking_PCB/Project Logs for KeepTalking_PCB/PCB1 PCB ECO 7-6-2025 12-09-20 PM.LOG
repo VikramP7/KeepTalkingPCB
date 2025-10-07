@@ -1,0 +1,14 @@
+Added Pin To Net: NetName=+3V3 Pin=D7-1
+Added Pin To Net: NetName=Dramatic_LED2 Pin=D7-2
+Added Pin To Net: NetName=+3V3 Pin=D8-1
+Added Pin To Net: NetName=Dramatic_LED1 Pin=D8-2
+Added Pin To Net: NetName=+3V3 Pin=D9-1
+Added Pin To Net: NetName=Strikes_LED3 Pin=D9-2
+Added Pin To Net: NetName=GND Pin=D10-2
+Added Pin To Net: NetName=+3V3 Pin=D11-1
+Added Pin To Net: NetName=Strikes_LED2 Pin=D11-2
+Added Pin To Net: NetName=+3V3 Pin=D12-1
+Added Pin To Net: NetName=Strikes_LED1 Pin=D12-2
+Added Pin To Net: NetName=NetD10_1 Pin=D10-1
+Added Pin To Net: NetName=NetD10_1 Pin=R26-2
+Added Net: Name=NetD10_1

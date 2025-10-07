@@ -1,0 +1,172 @@
+Added Component: Designator=U2(16-TSSOP MUX 8to1)
+Add component (AddParameter): Name = "Case/Package"; Value = "TSSOP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Decoders and Multiplexers"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Channels"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://www.ti.com:443/lit/ds/symlink/sn74lv4051a.pdf?src-supplier=IHS+Markit"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.ti.com:443/lit/ds/symlink/sn74lv4051a.pdf?src-supplier=IHS+Markit"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "https://datasheet.ciiva.com/27051/1026350-27051257.pdf?src-supplier=Jameco"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://datasheet.ciiva.com/27051/1026350-27051257.pdf?src-supplier=Jameco"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "https://datasheet.ciiva.com/15127/getdatasheetpartid-300450-15127659.pdf?src-supplier=Verical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://datasheet.ciiva.com/15127/getdatasheetpartid-300450-15127659.pdf?src-supplier=Verical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "https://datasheet.ciiva.com/1669/sn74lv4051a-1669786.pdf?src-supplier=Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "https://datasheet.ciiva.com/1669/sn74lv4051a-1669786.pdf?src-supplier=Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5Description"; Value = "https://datasheet.ciiva.com/1669/sn74lv4051a-1669787.pdf?src-supplier=Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5URL"; Value = "https://datasheet.ciiva.com/1669/sn74lv4051a-1669787.pdf?src-supplier=Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink6Description"; Value = "https://datasheet.ciiva.com/1669/sn74lv4051a-1669788.pdf?src-supplier=Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink6URL"; Value = "https://datasheet.ciiva.com/1669/sn74lv4051a-1669788.pdf?src-supplier=Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink7Description"; Value = "https://datasheet.ciiva.com/2980/sn74lv4051a-2980182.pdf?src-supplier=Avnet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink7URL"; Value = "https://datasheet.ciiva.com/2980/sn74lv4051a-2980182.pdf?src-supplier=Avnet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink8Description"; Value = "https://datasheet.ciiva.com/48711/001048021-da-01-en-ic-de-mux-8x-sn74lv4051apwr-tssop-16-tid-48711975.pdf?src-supplier=Conrad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink8URL"; Value = "https://datasheet.ciiva.com/48711/001048021-da-01-en-ic-de-mux-8x-sn74lv4051apwr-tssop-16-tid-48711975.pdf?src-supplier=Conrad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height - Seated (Max)"; Value = "1.2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JESD-30 Code"; Value = "R-PDSO-G16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JESD-609 Code"; Value = "e3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "SN74LV4051APWR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Supply Voltage"; Value = "5.5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Supply Voltage"; Value = "2V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Moisture Sensitivity Level"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Nominal Supply Voltage"; Value = "2.3V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Channels"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Off-state Isolation-Nom"; Value = "45dB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "On-state Resistance Match-Nom"; Value = "2.1R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "On-state Resistance-Max (Ron)"; Value = "180R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Body Material"; Value = "Plastic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Equivalence Code"; Value = "TSSOP16,.25"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Shape"; Value = "Rectangular"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Style"; Value = "SMALL OUTLINE, THIN PROFILE, SHRINK PITCHMeter"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Peak Reflow Temperature (Cel)"; Value = "260°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Supplies"; Value = "3.3V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing"; Value = "1=0.27, 10=0.189, 25=0.1672, 100=0.1435, 250=0.13224, 500=0.12538, 1000=0.11977 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Qualification Status"; Value = "Not Qualified"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reach SVHC Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Signal Current-Max"; Value = "50mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock"; Value = "20567"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "296-3829-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supply Current-Max (Isup)"; Value = "20uA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Surface Mount"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Switch-off Time-Max"; Value = "28ns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Switch-on Time-Max"; Value = "28ns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "CMOS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Grade"; Value = "INDUSTRIAL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Terminal Finish"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Terminal Form"; Value = "Gull Wing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Terminal Pitch"; Value = "0.65mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Terminal Position"; Value = "DUAL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Throw Configuration"; Value = "SINGLE-ENDED MULTIPLEXER"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "4.4mm"; VariantName = "[No Variations]"
+Added Component: Designator=U5(16-TSSOP MUX 8to1)
+Add component (AddParameter): Name = "Case/Package"; Value = "TSSOP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Decoders and Multiplexers"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Channels"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://www.ti.com:443/lit/ds/symlink/sn74lv4051a.pdf?src-supplier=IHS+Markit"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.ti.com:443/lit/ds/symlink/sn74lv4051a.pdf?src-supplier=IHS+Markit"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "https://datasheet.ciiva.com/27051/1026350-27051257.pdf?src-supplier=Jameco"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://datasheet.ciiva.com/27051/1026350-27051257.pdf?src-supplier=Jameco"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "https://datasheet.ciiva.com/15127/getdatasheetpartid-300450-15127659.pdf?src-supplier=Verical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://datasheet.ciiva.com/15127/getdatasheetpartid-300450-15127659.pdf?src-supplier=Verical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "https://datasheet.ciiva.com/1669/sn74lv4051a-1669786.pdf?src-supplier=Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "https://datasheet.ciiva.com/1669/sn74lv4051a-1669786.pdf?src-supplier=Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5Description"; Value = "https://datasheet.ciiva.com/1669/sn74lv4051a-1669787.pdf?src-supplier=Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5URL"; Value = "https://datasheet.ciiva.com/1669/sn74lv4051a-1669787.pdf?src-supplier=Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink6Description"; Value = "https://datasheet.ciiva.com/1669/sn74lv4051a-1669788.pdf?src-supplier=Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink6URL"; Value = "https://datasheet.ciiva.com/1669/sn74lv4051a-1669788.pdf?src-supplier=Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink7Description"; Value = "https://datasheet.ciiva.com/2980/sn74lv4051a-2980182.pdf?src-supplier=Avnet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink7URL"; Value = "https://datasheet.ciiva.com/2980/sn74lv4051a-2980182.pdf?src-supplier=Avnet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink8Description"; Value = "https://datasheet.ciiva.com/48711/001048021-da-01-en-ic-de-mux-8x-sn74lv4051apwr-tssop-16-tid-48711975.pdf?src-supplier=Conrad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink8URL"; Value = "https://datasheet.ciiva.com/48711/001048021-da-01-en-ic-de-mux-8x-sn74lv4051apwr-tssop-16-tid-48711975.pdf?src-supplier=Conrad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height - Seated (Max)"; Value = "1.2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JESD-30 Code"; Value = "R-PDSO-G16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JESD-609 Code"; Value = "e3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "SN74LV4051APWR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Supply Voltage"; Value = "5.5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Supply Voltage"; Value = "2V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Moisture Sensitivity Level"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Nominal Supply Voltage"; Value = "2.3V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Channels"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Off-state Isolation-Nom"; Value = "45dB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "On-state Resistance Match-Nom"; Value = "2.1R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "On-state Resistance-Max (Ron)"; Value = "180R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Body Material"; Value = "Plastic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Equivalence Code"; Value = "TSSOP16,.25"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Shape"; Value = "Rectangular"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Style"; Value = "SMALL OUTLINE, THIN PROFILE, SHRINK PITCHMeter"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Peak Reflow Temperature (Cel)"; Value = "260°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Supplies"; Value = "3.3V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing"; Value = "1=0.27, 10=0.189, 25=0.1672, 100=0.1435, 250=0.13224, 500=0.12538, 1000=0.11977 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Qualification Status"; Value = "Not Qualified"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reach SVHC Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Signal Current-Max"; Value = "50mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock"; Value = "20567"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "296-3829-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supply Current-Max (Isup)"; Value = "20uA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Surface Mount"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Switch-off Time-Max"; Value = "28ns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Switch-on Time-Max"; Value = "28ns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "CMOS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Grade"; Value = "INDUSTRIAL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Terminal Finish"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Terminal Form"; Value = "Gull Wing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Terminal Pitch"; Value = "0.65mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Terminal Position"; Value = "DUAL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Throw Configuration"; Value = "SINGLE-ENDED MULTIPLEXER"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "4.4mm"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin D7-A
+Add Pin To Net: Unknown Pin: Pin D7-C
+Add Pin To Net: Unknown Pin: Pin D8-A
+Add Pin To Net: Unknown Pin: Pin D8-C
+Add Pin To Net: Unknown Pin: Pin D9-A
+Add Pin To Net: Unknown Pin: Pin D9-C
+Add Pin To Net: Unknown Pin: Pin D10-A
+Add Pin To Net: Unknown Pin: Pin D10-C
+Add Pin To Net: Unknown Pin: Pin D11-A
+Add Pin To Net: Unknown Pin: Pin D11-C
+Add Pin To Net: Unknown Pin: Pin D12-A
+Add Pin To Net: Unknown Pin: Pin D12-C
+Added Pin To Net: NetName=NetJ3_2 Pin=U2-1
+Added Pin To Net: NetName=Button_Up Pin=U2-2
+Added Pin To Net: NetName=WiresButts_Probe8 Pin=U2-3
+Added Pin To Net: NetName=Button_Down Pin=U2-4
+Added Pin To Net: NetName=NetJ3_3 Pin=U2-5
+Added Pin To Net: NetName=GND Pin=U2-6
+Added Pin To Net: NetName=GND Pin=U2-7
+Added Pin To Net: NetName=GND Pin=U2-8
+Added Pin To Net: NetName=WiresButts_Mux8C Pin=U2-9
+Added Pin To Net: NetName=WiresButts_Mux8B Pin=U2-10
+Added Pin To Net: NetName=WiresButts_Mux8A Pin=U2-11
+Added Pin To Net: NetName=NetJ3_1 Pin=U2-12
+Added Pin To Net: NetName=NetJ1_1 Pin=U2-13
+Added Pin To Net: NetName=NetJ1_2 Pin=U2-14
+Added Pin To Net: NetName=NetJ1_3 Pin=U2-15
+Added Pin To Net: NetName=+3V3 Pin=U2-16
+Added Pin To Net: NetName=7Seg_Dots_Sig Pin=U5-1
+Added Pin To Net: NetName=+3V3 Pin=U5-3
+Added Pin To Net: NetName=7Seg_Deg_Sig Pin=U5-5
+Added Pin To Net: NetName=GND Pin=U5-6
+Added Pin To Net: NetName=GND Pin=U5-7
+Added Pin To Net: NetName=GND Pin=U5-8
+Added Pin To Net: NetName=7Seg_Mux_C Pin=U5-9
+Added Pin To Net: NetName=7Seg_Mux_B Pin=U5-10
+Added Pin To Net: NetName=7Seg_Mux_A Pin=U5-11
+Added Pin To Net: NetName=7Seg_D4_Sig Pin=U5-12
+Added Pin To Net: NetName=7Seg_D1_Sig Pin=U5-13
+Added Pin To Net: NetName=7Seg_D2_Sig Pin=U5-14
+Added Pin To Net: NetName=7Seg_D3_Sig Pin=U5-15
+Added Pin To Net: NetName=+3V3 Pin=U5-16
+Added Member To Class: ClassName=TopLevel Member=Component U2 SN74LV4051APWR
+Added Member To Class: ClassName=TopLevel Member=Component U5 SN74LV4051APWR
